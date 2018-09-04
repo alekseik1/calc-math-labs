@@ -1,0 +1,10 @@
+Math error in
+Unexpected ')' in your function
+Undefined simbol in your function
+Error in your function
+Function can'not be void
+Math error: undefined function
+Math error: division by zero
+Error in your function
+Undefined word in your function
+Math error: too huge variable
